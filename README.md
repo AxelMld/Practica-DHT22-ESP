@@ -54,11 +54,14 @@ void loop() {
 
 1. Se realiza la siguiente conexion 
 
+![](https://github.com/AxelMld/Practica-DHT22-ESP/blob/main/conexion.png?raw=true)
 
 2. Se descarga la libreria para el sensor DHT22
+
+![](https://github.com/AxelMld/Practica-DHT22-ESP/blob/main/librerias.png?raw=true)
 
 
 3. Resultados de la practca
 
-
+![](https://github.com/AxelMld/Practica-DHT22-ESP/blob/main/resultado.png?raw=true)
 
